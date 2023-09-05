@@ -1,16 +1,19 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I'm a first year computer science student at UNSW Sydney.
+I have accomplished a great number of things that no-one cares about, not even myself.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Friend me on [Discord](https://discordapp.com/users/575237919380602880) right now if you consumed any of the following content:
+* [Vylet Pony](https://www.vyletpony.com/)
+* [Equestria at War](https://equestriaatwar.com/)
+* [Assault Android Cactus](https://www.assaultandroidcactus.com/)
+* [Possible History](https://www.youtube.com/@possiblehistory)
+* [Dungeon Crawl Stone Soup](https://crawl.develz.org/)
+* [Cult of The Lamb](https://www.cultofthelamb.com/)
+* [Bokeon1](https://www.youtube.com/@Bokoen1)
+* [Helium Vola](http://www.helium-vola.de/)
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I'll be waiting.
